@@ -1,2 +1,3 @@
 Modern-Login-shaild
-<video controls src="img/Recording 2024-04-20 181822.mp4" title="Title"></video>
+![alt text](<img/SIGN IN.png>)
+![alt text](<img/SIGN UP.png>)
